@@ -1,139 +1,139 @@
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-Black.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-BlackItalic.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-BlackItalic.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-Bold.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-BoldItalic.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-BoldItalic.ttf') format('truetype');
     font-weight: 700;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-DEMOExtraLight.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-DEMOExtraLight.ttf') format('truetype');
     font-weight: 200;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-DEMOHeavy.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-DEMOHeavy.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-ExtraLight.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-ExtraLight.ttf') format('truetype');
     font-weight: 200;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-ExtraLightItalic.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-ExtraLightItalic.ttf') format('truetype');
     font-weight: 200;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-Hairline.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-Hairline.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-HairlineItalic.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-HairlineItalic.ttf') format('truetype');
     font-weight: 100;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-Heavy.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-Heavy.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-HeavyItalic.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-HeavyItalic.ttf') format('truetype');
     font-weight: 800;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-Light.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-LightItalic.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-LightItalic.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-Regular.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-RegularItalic.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-RegularItalic.ttf') format('truetype');
     font-weight: 400;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-SemiBold.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-SemiBoldItalic.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-SemiBoldItalic.ttf') format('truetype');
     font-weight: 600;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-Thin.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Mont';
-    src: url('Mont-ThinItalic.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/wetlandcraft/fonts/refs/heads/main/Mont/Mont-ThinItalic.ttf') format('truetype');
     font-weight: 100;
     font-style: italic;
 }
